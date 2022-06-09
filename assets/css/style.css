@@ -1,6 +1,6 @@
 /**
-* Template Name: BizPage - v5.8.0
-* Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+* Template Name: Jamaadul Recruitment Agencies Ltd - v5.8.0
+* Template URL: https://bootstrapmade.com/Jamaadul Recruitment Agencies Ltd-bootstrap-business-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
